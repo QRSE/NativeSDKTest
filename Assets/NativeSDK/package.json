@@ -1,0 +1,9 @@
+{
+	"name": "com.gametest.nativesdk-test",
+	"displayName": "NativeSDK Test",
+	"description": "NativesSDK test in android and ios!",
+	"version": "1.0.0",
+	"unity": "2018.4",
+	"license": "MIT",
+	"dependencies": {}
+}
