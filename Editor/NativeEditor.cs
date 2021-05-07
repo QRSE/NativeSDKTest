@@ -13,7 +13,13 @@ public class NativeEditor
 	{
 		Selection.activeObject = NativeSettings.Instance;
 	}
-	
+
+	[MenuItem("NativeSDK/Test")]
+	public static void Test()
+	{
+		Debug.Log("Test!!!!");
+	}
+
 	[PostProcessBuild]
 	public static void OnPostprocessBuild(BuildTarget target, string projectPath)
 	{

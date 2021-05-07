@@ -1,6 +1,8 @@
 Native SDK
 ===
 
+Plugin for unity to associate with android and IOS native api.
+
 Native SDK plugins!
 
 <br><br>
