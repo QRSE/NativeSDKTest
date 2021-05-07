@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32ba0393-8bb9-4372-a7c2-75c145f6085b" name="Default Changelist" comment="" />
+    <list default="true" id="32ba0393-8bb9-4372-a7c2-75c145f6085b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PackageManager Test/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PackageManager Test/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PackageManager Test/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PackageManager Test/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PackageManager Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PackageManager Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NativeSDK/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NativeSDK/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NativeSDK/Editor/NativeEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NativeSDK/Editor/NativeEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NativeSDK/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NativeSDK/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NativeSDK/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NativeSDK/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NativeSDK/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NativeSDK/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Editor/NativeSettings.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Runtime/iOS/NativeiOS.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Runtime/iOS/NativeiOS.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Runtime/Common/SpeechToText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Runtime/Util/NativeUtil.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../UltimateMobile Test/Assets/Scripts/ExtensionTool/Facebook/FacebookManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Test/TestManger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Editor/NativeEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Runtime/Common/TextToSpeech.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Runtime/Android/NativeAndroid.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Runtime/Android/NativeAndroid.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/Runtime/Interfaces/INativeDeeplink.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NativeSDK/package.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -29,8 +41,12 @@
         <option value="$PROJECT_DIR$/Assets/NativeSDK/Editor/NativeSetting.cs" />
         <option value="$PROJECT_DIR$/Assets/Test/TestManger.cs" />
         <option value="$PROJECT_DIR$/Assets/NativeSDK/Editor/NativeSettings.cs" />
-        <option value="$PROJECT_DIR$/Assets/NativeSDK/Editor/NativeEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/NativeSDK/Runtime/NativeSDK.cs" />
+        <option value="$PROJECT_DIR$/Assets/NativeSDK/README.md" />
+        <option value="$PROJECT_DIR$/Assets/NativeSDK/LICENSE.md" />
+        <option value="$PROJECT_DIR$/Assets/NativeSDK/package.json" />
+        <option value="$PROJECT_DIR$/Assets/NativeSDK/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/Assets/NativeSDK/Editor/NativeEditor.cs" />
       </list>
     </option>
   </component>
@@ -70,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619666645784</updated>
       <workItem from="1619666647126" duration="23087000" />
+      <workItem from="1620367595009" duration="3456000" />
     </task>
     <servers />
   </component>

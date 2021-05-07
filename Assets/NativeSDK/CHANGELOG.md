@@ -1,13 +1,25 @@
-# 1.0.0 (2021-05-06)
-
-
-### Features
-
-* Add asmdef ([d8cd4a3](https://github.com/mob-sakai/RotateMe/commit/d8cd4a3))
-* Develop "NativeSDK" ([03127fe](https://github.com/mob-sakai/RotateMe/commit/03127fe))
-
 # Changelog
 
-## [1.0.0](https://github.com/mob-sakai/RotateMe/tree/1.0.0) (2021-05-06)
+All notable changes to this package will be documented in this file.
+# 2.0.0 (2021-05-07)
 
-- Rotate the object!
+### Fixes:
+
+-Fixed some bug.
+
+### Adds:
+
+-Added some tool methods.
+
+
+# 1.0.0 (2021-05-06)
+
+Plugin for unity to associate with android and IOS native api.
+
+### Adds:
+
+- Develop "NativeSDK" ([03127fe](https://github.com/QRSE/NativeSDKTest/commit/5b53409e6c08b58e8f6ef9d2377caa7f0b74693e))
+- [Android] Add deep link acquisition.
+- [iOS] Add a method to request IDFA for ios 14 advertising rights.
+- Documentation improvements.
+- Android and ios language to text, text to speech methods.
