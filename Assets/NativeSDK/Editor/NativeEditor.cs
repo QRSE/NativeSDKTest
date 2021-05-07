@@ -19,6 +19,12 @@ public class NativeEditor
 	{
 		Debug.Log("Test!!!!");
 	}
+	
+	[MenuItem("NativeSDK/Test1")]
+	public static void Test1()
+	{
+		Debug.Log("Test1!!!!");
+	}
 
 	[PostProcessBuild]
 	public static void OnPostprocessBuild(BuildTarget target, string projectPath)
