@@ -1,0 +1,14 @@
+{
+    "name": "NativeSDKTest",
+    "references": [
+        "Native.SDK"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
