@@ -5,5 +5,12 @@
 	"version": "2.0.0",
 	"unity": "2018.4",
 	"license": "MIT",
-	"dependencies": {}
+	"dependencies": {},
+	"Samples:":[
+	{
+		"displayName":"SDK演示",
+		"description":"包含各种SDK引用测试",
+		"path":"Example~/NativeDemo"
+	}
+	]
 }
