@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32ba0393-8bb9-4372-a7c2-75c145f6085b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PackageManager Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PackageManager Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/NativeSDK/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NativeSDK/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NativeSDK/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NativeSDK/CHANGELOG.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +38,10 @@
         <option value="$PROJECT_DIR$/Assets/NativeSDK/Runtime/NativeSDK.cs" />
         <option value="$PROJECT_DIR$/Assets/NativeSDK/README.md" />
         <option value="$PROJECT_DIR$/Assets/NativeSDK/LICENSE.md" />
-        <option value="$PROJECT_DIR$/Assets/NativeSDK/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/Assets/NativeSDK/Editor/NativeEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/NativeSDK/Example/NativeDemo/Runtime/NativeSDKMangerTest.cs" />
         <option value="$PROJECT_DIR$/Assets/NativeSDK/package.json" />
+        <option value="$PROJECT_DIR$/Assets/NativeSDK/CHANGELOG.md" />
       </list>
     </option>
   </component>
@@ -81,7 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1619666645784</updated>
       <workItem from="1619666647126" duration="23087000" />
-      <workItem from="1620367595009" duration="6871000" />
+      <workItem from="1620367595009" duration="9928000" />
+      <workItem from="1620634748325" duration="629000" />
     </task>
     <servers />
   </component>
